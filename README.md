@@ -1,1 +1,1 @@
-An CNN based crop diesease prediction system with the integration of Multilinugual model . This is a collaborative project done and acheived selection in  Smart India Hackathon (internal) and UST SIGHT2.0 Round 2. 
+An CNN based crop diesease prediction system with the integration of Multilinugual model . This is a collaborative project done and acheived selection in  Smart India Hackathon (internal)2024 and UST SIGHT2.0 Round 2 2025. 
