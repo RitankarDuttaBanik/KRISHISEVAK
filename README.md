@@ -1,5 +1,5 @@
 
-# 🌾 AI-Powered Crop Disease Prediction System 🌿  
+# 🌾 KRISHISEVAK  🌿  
 
 ### 🚀 Overview  
 This repository hosts our **CNN-based crop disease prediction system**, enhanced with a **multilingual language model** using the **Google Translator API**. Designed to support farmers globally, our system provides **instant disease diagnosis** and **translated recommendations**, ensuring accessibility across diverse linguistic backgrounds.  
@@ -64,5 +64,3 @@ To Be Announced.
 ---
 
 🌱 **Empowering Agriculture with AI – One Healthy Crop at a Time!** 🌾  
-
-Let me know if you want any refinements! 🚀
